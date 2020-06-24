@@ -1,0 +1,182 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+urlcolor: blue
+---
+# Tomasz Dworowy
+
+--- 
+
+
+Email dworowytomasz@gmail.com  
+Phone +48 531731238  
+[LinkedIn](https://linkedin.com/in/tomasz-dworowy-aab283bb)  
+[Hackerrank](https://www.hackerrank.com/dworowytomasz)  
+[Github](https://github.com/tdworowy)  
+[Project](https://github.com/tdworowy/DeepLearningStaff)  
+
+# Education
+
+## University of Economics in Katowice  
+
+* Time span: 2015 – 2018
+* The Faculty: Informatics
+* Level of education: master
+* Specialization: Analysis of large data sets
+* Master thesis topic: *Methods, techniques and tools for automated testing in the software development process*
+
+---
+ 
+## University of Economics in Katowice
+
+* Time span: 2010 – 2013
+* The Faculty: Informatics
+* evel of education: bachelor
+* Specialization: Databases and data warehouses
+* Bachelor thesis topic: *Suggestions for the use of artificial neural networks in the classification of bonds*
+
+# Experience
+
+## Company: Sii  
+
+* Time span: June 2019 - current workplace
+* **Position: Test Development Engineer**
+
+### Client: ING Tech Poland
+
+* Time span: May 2020 -
+
+#### Project: 
+Credit cards.
+
+#### Responsibilities:
+
+* Test automation
+* Testing
+
+**Tools used**: Java, SQL, Postman  
+**Project Management Methodology**: Scrum.
+
+### Client: Grand parade (William Hill) 
+
+* Time span: October 2019 to March 2020
+
+#### Project: 
+Data ingestion – goal of project was to prepare data pipeline from mssql, through S3 bucket, to Snowflake database. Pipeline was prepare using Airflow and NiFi.
+
+#### Responsibilities:  
+
+* Test automation
+* Test case design
+* Testing
+* Development support  
+  
+**Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker, Terraform  
+**Project Management Methodology**: Scrum.
+
+### Client: ABB 
+
+* Time span: July 2019 to September 2019
+
+#### Project: 
+ServIS 2.0 Proof of technology - goal of project was to test performance of mssql data base (and simple REST api) located in Azure cloud.  
+
+#### Responsibilities:  
+
+* REST api functional testing with Postman
+* Data base performance testing with Jmeter
+* REST api performance testing with Jmeter
+* Preparation of reports with Power BI and Excel  
+
+**Tools used**: Jmeter, Power BI, Postman, Azure, SQL  
+**Project Management Methodology**: Scrum.
+
+--- 
+
+## Company: Rockwell Automation  
+
+* Time span: September 2017 – April 2019
+* **Position: Software Test Engineer**
+
+#### Projects: 
+Industrial controller emulator - goal of project was to re-use part of industrial controller firmware to prepare emulator for windows 10. Product should be able to emulate multiple controllers as well as communication between them.  
+
+#### Responsibilities:
+
+* Functional testing
+* Test automation with Python
+* Development of Python API (via NATS) of emulated controller
+* Python and C# unit tests
+* Tech spikes and documentation
+* Jenkins pipeline configuration and maintenance  
+
+**Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker  
+**Project Management Methodology**: Scrum and SAFe.
+
+---
+
+## Company: Alan Systems  
+
+* Time span: December 2013 - September 2017
+* **Position: Software Tester**
+
+#### Projects:  
+Web time tracking application (12.2013 – 12.2014) – application use to work time tracking, including time shift, vacations, sick leave etc.  
+CRM application (12.2014 – 09.2017) -  Customer relationship management web application use to create and coordinate marketing campaigns and to manage customer and product base. 
+
+#### Responsibilities:  
+
+* Functional exploratory testing
+* Test automation with selenium webdriver in Java with JUnit
+* Automation of rest API tests in Java
+* Performance and load tests with Jmeter in Java framework
+
+**Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink 
+**Project Management Methodology**: Scrum.  
+
+
+# Courses
+
+* ISTQB Foundation Level, certificate: 57418
+* Machine Learning, Coursera, certificate: [R4LDP4UJKNW5](https://www.coursera.org/account/accomplishments/records/R4LDP4UJKNW5)
+* Ancient Philosophy: Aristotle and His Successors, Coursera, certificate: [SJH4XTG8ZC89](https://www.coursera.org/account/accomplishments/records/SJH4XTG8ZC89)
+* Kubernetes Essentials, Linux Academy, certificate: [194408](https://linuxacademy.com/profile/u/cert/id/194408)
+* Implementing a Full CI/CD Pipeline, Linux Academy, certificate: [197992](https://linuxacademy.com/profile/u/cert/id/197992)
+* Learning Full-Stack JavaScript Development: MongoDB, Node, and React, Linkedin
+* Introduction to Discrete Mathematics for Computer Science, Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
+* Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
+
+
+# Programing Languages
+
+* Python
+* TypeScript
+* Java
+
+
+# Languages
+
+* Polish (native speaker)
+* English
+
+
+# Influenced by books
+
+* *Lessons Learned in Software Testing*, Cem Kaner, James Bach, Bret Pettichord
+* *Clean Code*, *Clean Coder* and *Clean Architecture*”, Robert C. Martin
+* *Human action*, Ludwig von Mises
+* *Thinking, Fast and Slow*, Daniel Kahneman
+* *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall  
+  
+
+# Interests
+
+* DevOps
+* Agile
+* Functional programing
+* Data science
+* History
+* Economics
+* Philosophy
+* Video games
