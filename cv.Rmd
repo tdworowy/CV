@@ -45,10 +45,10 @@ Phone +48 531731238
 
 ### Client: ING Tech Poland
 
-* Time span: May 2020 -
+* Time span: May 2020 - current project
 
 #### Project: 
-Credit cards.
+Credit cards backoffice application.
 
 #### Responsibilities:
 
