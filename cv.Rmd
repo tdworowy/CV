@@ -134,6 +134,19 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * Specialization: Databases and data warehouses
 * Bachelor thesis topic: *Suggestions for the use of artificial neural networks in the classification of bonds*
 
+\newpage
+
+#  Programing languages
+```{r Programing, echo=FALSE, fig.cap="Programing languages", out.width = '100%'}
+knitr::include_graphics("programing.png")
+```
+\newpage
+#  Skills
+```{r skills, echo=FALSE, fig.cap="Skills", out.width = '100%'}
+knitr::include_graphics("skills.png")
+```
+\newpage
+
 # Courses
 
 * ISTQB Foundation Level, certificate: 57418
@@ -145,17 +158,6 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * Introduction to Discrete Mathematics for Computer Science, Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
 
-# Programing Languages
-
-* Python
-* TypeScript
-* Java
-
-# Languages
-
-* Polish (native speaker)
-* English
-
 
 # Influenced by books
 
@@ -165,14 +167,11 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * *Thinking, Fast and Slow*, Daniel Kahneman
 * *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall
 * *How Not to Be Wrong: The Power of Mathematical Thinking*, Jordan Ellenberg 
-  
 
 # Interests
 
-* DevOps
-* Data science
-* Machine learning
 * History
 * Philosophy
 * Economics
 * Video games
+
