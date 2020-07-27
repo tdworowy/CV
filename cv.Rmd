@@ -145,7 +145,7 @@ knitr::include_graphics("programing.png")
 ```{r skills, echo=FALSE, fig.cap="Skills", out.width = '100%'}
 knitr::include_graphics("skills.png")
 ```
-\newpage
+
 
 # Courses
 
