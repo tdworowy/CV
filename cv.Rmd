@@ -3,10 +3,12 @@ output:
   pdf_document: default
   html_document: default
 urlcolor: blue
+geometry: margin=1.5cm
+fontsize: 11pt
 ---
 # Tomasz Dworowy
 
---- 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
 
 Email dworowytomasz@gmail.com  
 Phone +48 531731238  
@@ -14,6 +16,7 @@ Phone +48 531731238
 [Hackerrank](https://www.hackerrank.com/dworowytomasz)  
 [Github](https://github.com/tdworowy)  
 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
 
 # Experience
 
@@ -71,7 +74,7 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 **Tools used**: Jmeter, Power BI, Postman, Azure, SQL  
 **Project Management Methodology**: Scrum.
 
---- 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
 
 ## Company: Rockwell Automation  
 
@@ -93,7 +96,7 @@ Industrial controller emulator - goal of project was to re-use part of industria
 **Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker  
 **Project Management Methodology**: Scrum and SAFe.
 
----
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
 
 ## Company: Alan Systems  
 
@@ -111,7 +114,7 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * Automation of rest API tests in Java
 * Performance and load tests with Jmeter in Java framework
 
-**Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink 
+**Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink  
 **Project Management Methodology**: Scrum.  
 
 # Education
@@ -124,7 +127,6 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * Specialization: Analysis of large data sets
 * Master thesis topic: *Methods, techniques and tools for automated testing in the software development process*
 
----
  
 ## University of Economics in Katowice
 
@@ -168,7 +170,7 @@ knitr::include_graphics("skills.png")
 * *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall
 * *How Not to Be Wrong: The Power of Mathematical Thinking*, Jordan Ellenberg 
 
-# Interests
+# Other interests
 
 * History
 * Philosophy
