@@ -37,7 +37,7 @@ Credit cards backoffice application.
 * Test automation
 * Testing
 
-**Tools used**: Java, SQL  
+**Tools used**: Java, Oracle SQL Developer  
 **Project Management Methodology**: Scrum.
 
 ### Client: Grand parade (William Hill) 
