@@ -18,6 +18,11 @@ Phone +48 531731238
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
 
+Software tester, adherent of context driven testing school, specialize in test automation.
+Professionally interested in DevOps and data science, personally in history, philosophy and economics.   
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+
 # Experience
 
 ## Company: Sii  
@@ -169,11 +174,3 @@ knitr::include_graphics("skills.png")
 * *Thinking, Fast and Slow*, Daniel Kahneman
 * *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall
 * *How Not to Be Wrong: The Power of Mathematical Thinking*, Jordan Ellenberg 
-
-# Other interests
-
-* History
-* Philosophy
-* Economics
-* Video games
-
