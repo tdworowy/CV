@@ -8,7 +8,7 @@ fontsize: 11pt
 ---
 # Tomasz Dworowy
 
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 Email dworowytomasz@gmail.com  
 Phone +48 531731238  
@@ -16,12 +16,12 @@ Phone +48 531731238
 [Hackerrank](https://www.hackerrank.com/dworowytomasz)  
 [Github](https://github.com/tdworowy)  
 
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 Software tester, adherent of context driven testing school, specialize in test automation.
-Professionally interested in DevOps and data science, personally in history, philosophy and economics.   
+Professionally interested in DevOps, data science and machine learning, personally in history, philosophy and economics.   
 
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 # Experience
 
@@ -79,7 +79,7 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 **Tools used**: Jmeter, Power BI, Postman, Azure, SQL  
 **Project Management Methodology**: Scrum.
 
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: Rockwell Automation  
 
@@ -101,7 +101,7 @@ Industrial controller emulator - goal of project was to re-use part of industria
 **Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker  
 **Project Management Methodology**: Scrum and SAFe.
 
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.5pt}}
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: Alan Systems  
 
@@ -122,6 +122,8 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 **Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink  
 **Project Management Methodology**: Scrum.  
 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
+
 # Education
 
 ## University of Economics in Katowice  
@@ -141,6 +143,8 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 * Specialization: Databases and data warehouses
 * Bachelor thesis topic: *Suggestions for the use of artificial neural networks in the classification of bonds*
 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
+
 \newpage
 
 #  Programing languages
@@ -152,7 +156,9 @@ knitr::include_graphics("programing.png")
 ```{r skills, echo=FALSE, fig.cap="Skills", out.width = '100%'}
 knitr::include_graphics("skills.png")
 ```
+\newpage
 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 # Courses
 
@@ -165,6 +171,7 @@ knitr::include_graphics("skills.png")
 * Introduction to Discrete Mathematics for Computer Science, Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 # Influenced by books
 
@@ -174,3 +181,5 @@ knitr::include_graphics("skills.png")
 * *Thinking, Fast and Slow*, Daniel Kahneman
 * *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall
 * *How Not to Be Wrong: The Power of Mathematical Thinking*, Jordan Ellenberg 
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
