@@ -146,14 +146,14 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-\newpage
 
-#  Programing languages
-```{r Programing, echo=FALSE, fig.cap="Programing languages", out.width = '100%'}
-c <- grDevices::col2rgb(c("blue", "black"))
+# Programing languages and skils
+```{r Programing, echo=FALSE, fig.height=4}
 library(radarchart)
 library(webshot)
 library(htmlwidgets)
+c <- grDevices::col2rgb(c("blue", "black"))
+
 labs <- c("Python","Java","TypeScript",'R')
 scores <- list(
   "Programing languages" = c(9, 6,5, 4)
@@ -165,10 +165,9 @@ saveWidget(plt, "plt1.html")
 webshot("plt1.html")
 
 ```
-\newpage
-#  Skills
-```{r skills, echo=FALSE, fig.cap="Skills", out.width = '100%'}
+```{r skills, echo=FALSE, fig.height=4}
 c <- grDevices::col2rgb(c("green", "black"))
+
 labs <- c("Data science", "DevOps","Exploratory testing", "Test automation", "Agile")
 scores <- list(
   "Sklis" = c(4, 6, 9, 9, 7)
