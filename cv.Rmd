@@ -1,9 +1,8 @@
 ---
 output:
+  html_document: default
   pdf_document: 
     keep_md: true
-  html_document: default
-
   md_document:
     variant: markdown_github
 urlcolor: blue
