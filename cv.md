@@ -3,7 +3,6 @@ output:
   pdf_document: 
     keep_md: true
   html_document: default
-
   md_document:
     variant: markdown_github
 urlcolor: blue
@@ -149,7 +148,7 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 
-# Programing languages and skils
+# Programing languages and skills
 ![](cv_files/figure-latex/Programing-1.png)<!-- --> 
 ![](cv_files/figure-latex/skills-1.png)<!-- --> 
 \newpage
