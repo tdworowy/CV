@@ -150,36 +150,8 @@ CRM application (12.2014 – 09.2017) - Customer relationship management web app
 
 
 # Programing languages and skils
-```{r Programing, echo=FALSE, fig.height=4}
-library(radarchart)
-library(webshot)
-library(htmlwidgets)
-c <- grDevices::col2rgb(c("blue", "black"))
-
-labs <- c("Python","Java","TypeScript",'R')
-scores <- list(
-  "Programing languages" = c(9, 6,5, 4)
- 
-)
-plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
-
-saveWidget(plt, "plt1.html")
-webshot("plt1.html")
-
-```
-```{r skills, echo=FALSE, fig.height=4}
-c <- grDevices::col2rgb(c("green", "black"))
-
-labs <- c("Data science", "DevOps","Exploratory testing", "Test automation", "Agile")
-scores <- list(
-  "Sklis" = c(4, 6, 9, 9, 7)
-  
-)
-plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
-
-saveWidget(plt, "plt2.html")
-webshot("plt2.html")
-```
+![](cv_files/figure-latex/Programing-1.png)<!-- --> 
+![](cv_files/figure-latex/skills-1.png)<!-- --> 
 \newpage
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
