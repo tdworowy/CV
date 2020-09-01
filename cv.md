@@ -153,6 +153,9 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 
 
 # Programing languages and skills
+
+
+
 ![](cv_files/figure-latex/Programing-1.png)<!-- --> 
 ![](cv_files/figure-latex/skills-1.png)<!-- --> 
 \newpage
