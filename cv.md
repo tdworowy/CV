@@ -170,8 +170,9 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * Kubernetes Essentials, Linux Academy, certificate: [194408](https://linuxacademy.com/profile/u/cert/id/194408)
 * Implementing a Full CI/CD Pipeline, Linux Academy, certificate: [197992](https://linuxacademy.com/profile/u/cert/id/197992)
 * Learning Full-Stack JavaScript Development: MongoDB, Node, and React, Linkedin
-* Introduction to Discrete Mathematics for Computer Science, Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
+* Introduction to Discrete Mathematics for Computer Science (specialization), Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
+* Data Science: Foundations using R (specialization), Coursera, certificate: [KH2HS2XGHY27](https://www.coursera.org/account/accomplishments/specialization/KH2HS2XGHY27)
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
