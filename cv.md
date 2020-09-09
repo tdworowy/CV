@@ -29,12 +29,12 @@ Software tester, adherent of context driven testing school, specialize in test a
 
 ## Company: Sii  
 
-* Time span: June 2019 - current workplace
-* **Position: Test Development Engineer**
+Time span: June 2019 - current workplace  
+Position: Test Development Engineer
 
 ### Client: ING Tech Poland
 
-* Time span: May 2020 - current project
+Time span: May 2020 - current project
 
 #### Project:
 
@@ -50,7 +50,7 @@ Credit cards backoffice application.
 
 ### Client: Grand parade (William Hill) 
 
-* Time span: October 2019 to March 2020
+Time span: October 2019 to March 2020
 
 #### Project:
 
@@ -68,7 +68,7 @@ Data ingestion – goal of project was to prepare data pipeline from mssql, thro
 
 ### Client: ABB 
 
-* Time span: July 2019 to September 2019
+Time span: July 2019 to September 2019
 
 #### Project:
 
@@ -88,8 +88,8 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 
 ## Company: Rockwell Automation  
 
-* Time span: September 2017 – April 2019
-* **Position: Software Test Engineer**
+Time span: September 2017 – April 2019  
+Position: Software Test Engineer
 
 #### Projects:
 
@@ -111,8 +111,8 @@ Emulate - Industrial controller emulator, goal of project was to re-use part of 
 
 ## Company: Alan Systems  
 
-* Time span: December 2013 - September 2017
-* **Position: Software Tester**
+Time span: December 2013 - September 2017  
+Position: Software Tester
 
 #### Projects: 
 ATMS Watch (12.2013 – 12.2014) - Web time tracking application use to track working time, including time shift, vacations, sick leave etc.  
