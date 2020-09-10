@@ -42,7 +42,7 @@ Credit cards backoffice application.
 
 #### Responsibilities:
 
-* Test automation with Java
+* Test automation (Java)
 * Testing (GUI, API and data base)
 
 **Tools used**: Java, Oracle SQL Developer, Postman  
@@ -58,7 +58,7 @@ Data ingestion – goal of project was to prepare data pipeline from mssql, thro
 
 #### Responsibilities:  
 
-* Test automation with Python and Pytest
+* Test automation (Python and Pytest)
 * Test case design
 * Testing
 * Development support  
@@ -76,10 +76,10 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 
 #### Responsibilities:  
 
-* REST api functional testing with Postman
-* Data base performance testing with Jmeter
-* REST api performance testing with Jmeter
-* Preparation of reports with Power BI and Excel  
+* REST api functional testing using Postman
+* Data base performance testing using Jmeter
+* REST api performance testing using Jmeter
+* Preparation of reports using Power BI and Excel  
 
 **Tools used**: Jmeter, Power BI, Postman, Azure, SQL  
 **Project Management Methodology**: Scrum.
@@ -98,7 +98,7 @@ Emulate - Industrial controller emulator, goal of project was to re-use part of 
 #### Responsibilities:
 
 * Functional testing
-* Test automation with Python
+* Test automation (Python)
 * Development of Python API (via NATS) of emulated controller
 * Python and C# unit tests
 * Tech spikes and documentation
@@ -121,9 +121,9 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 #### Responsibilities:  
 
 * Functional exploratory testing
-* Test automation with selenium webdriver in Java with JUnit
+* Test automation with selenium webdriver (Java and JUnit)
 * Automation of rest API tests in Java
-* Performance and load tests with Jmeter in Java framework
+* Performance and load tests using Jmeter and Java framework
 
 **Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink, SQL  
 **Project Management Methodology**: Scrum.  
@@ -152,13 +152,11 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 
-# Programing languages and skills
+# Programing languages
 
 
 
 ![](cv_files/figure-latex/Programing-1.png)<!-- --> 
-![](cv_files/figure-latex/skills-1.png)<!-- --> 
-\newpage
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -173,6 +171,13 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * Introduction to Discrete Mathematics for Computer Science (specialization), Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
 * Data Science: Foundations using R (specialization), Coursera, certificate: [KH2HS2XGHY27](https://www.coursera.org/account/accomplishments/specialization/KH2HS2XGHY27)
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
+\newpage
+
+# skills
+
+![](cv_files/figure-latex/skills-1.png)<!-- --> 
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
