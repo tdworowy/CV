@@ -121,8 +121,8 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 #### Responsibilities:  
 
 * Functional exploratory testing
-* Test automation with selenium webdriver (Java and JUnit)
-* Automation of rest API tests in Java
+* Test automation written in Java using selenium webdriver and JUnit
+* Automation of rest API tests written in Java
 * Performance and load tests using Jmeter and Java framework
 
 **Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink, SQL  
