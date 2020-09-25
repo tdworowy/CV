@@ -21,7 +21,7 @@ Phone +48 531731238
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics.   
+Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Preferable programming language Python but i'm open to learn and use different ones to. Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics.   
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
