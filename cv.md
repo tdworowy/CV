@@ -29,12 +29,12 @@ Software tester, adherent of context driven testing school, specialize in test a
 
 ## Company: Sii  
 
-Time span: June 2019 - current workplace  
+Time span: June 2019 - September 2020  
 Position: Test Development Engineer
 
 ### Client: ING Tech Poland
 
-Time span: May 2020 - current project
+Time span: May 2020 - September 2020
 
 #### Project:
 
