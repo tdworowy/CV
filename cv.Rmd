@@ -21,7 +21,8 @@ Phone +48 531731238
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Preferable programming language Python but i'm open to learn and use different ones to. Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics.   
+\large
+Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Python enthusiast but capable to use and open to learn different languages to. Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics. \par  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -213,18 +214,6 @@ plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
 saveWidget(plt, "plt2.html")
 webshot("plt2.html")
 ```
-
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
-
-# Influenced by books
-
-* *Lessons Learned in Software Testing*, Cem Kaner, James Bach, Bret Pettichord
-* *Explore It!*, Elisabeth Hendrickson 
-* *Clean Code*, *Clean Coder* and *Clean Architecture*”, Robert C. Martin
-* *Thinking, Fast and Slow*, Daniel Kahneman
-* *The Systems Bible: The Beginner's Guide to Systems Large and Small*, John Gall
-* *How Not to Be Wrong: The Power of Mathematical Thinking*, Jordan Ellenberg 
-* *The Black Swan*, Nassim Nicholas Taleb
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
