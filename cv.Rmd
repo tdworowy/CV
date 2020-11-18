@@ -26,11 +26,9 @@ Software tester, adherent of context driven testing school, specialize in test a
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-# Experience
-
 ## Company: Sii  
 
-Time span: June 2019 - September 2020  
+Time span: June 2019 - current  
 Position: Test Development Engineer
 
 ### Client: ING Tech Poland
@@ -172,7 +170,7 @@ c <- grDevices::col2rgb(c("blue", "black"))
 
 labs <- c("Python","Java","TypeScript",'R')
 scores <- list(
-  "Programing languages" = c(9, 6, 5, 4)
+  "Programing languages" = c(9, 4, 6, 5)
  
 )
 plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)

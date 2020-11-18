@@ -26,11 +26,9 @@ Software tester, adherent of context driven testing school, specialize in test a
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-# Experience
-
 ## Company: Sii  
 
-Time span: June 2019 - September 2020  
+Time span: June 2019 - current  
 Position: Test Development Engineer
 
 ### Client: ING Tech Poland
