@@ -31,6 +31,21 @@ Software tester, adherent of context driven testing school, specialize in test a
 Time span: June 2019 - current  
 Position: Test Development Engineer
 
+
+### Client: Roche
+
+Time span: December 2020 - Current
+
+### Project: 
+Data pipeline - goal of project was to prepare data pipeline from salesforce, to AWS S3 bucket, transform data and make it ready to use by ThoughtSpot.
+
+#### Responsibilities:
+
+* Testing (SQL)
+
+**Tools used**: Python, SQL, AWS glue, AWS Athena.  
+**Project Management Methodology**: Scrum.
+
 ### Client: ING Tech Poland
 
 Time span: May 2020 - September 2020
@@ -44,7 +59,7 @@ Credit cards backoffice application.
 * Test automation (Java)
 * Testing (GUI, API and data base)
 
-**Tools used**: Java, Oracle SQL Developer, Postman  
+**Tools used**: Java, Oracle SQL Developer, Postman.  
 **Project Management Methodology**: Scrum.
 
 ### Client: Grand parade (William Hill) 
@@ -62,7 +77,7 @@ Data ingestion – goal of project was to prepare data pipeline from mssql, thro
 * Testing
 * Development support  
   
-**Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker, Terraform  
+**Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker, Terraform.  
 **Project Management Methodology**: Scrum.
 
 ### Client: ABB 
@@ -103,7 +118,7 @@ Emulate - Industrial controller emulator, goal of project was to re-use part of 
 * Tech spikes and documentation
 * Jenkins pipeline configuration and maintenance  
 
-**Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker  
+**Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker.  
 **Project Management Methodology**: Scrum and SAFe.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
@@ -124,7 +139,7 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * Automation of rest API tests written in Java
 * Performance and load tests using Jmeter and Java framework
 
-**Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink, SQL  
+**Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink, SQL.  
 **Project Management Methodology**: Scrum.  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
@@ -156,6 +171,11 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 
 
 ![](cv_files/figure-latex/Programing-1.png)<!-- --> 
+\newpage
+
+# skills
+
+![](cv_files/figure-latex/skills-1.png)<!-- --> 
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -170,13 +190,6 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * Introduction to Discrete Mathematics for Computer Science (specialization), Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
 * Data Science: Foundations using R (specialization), Coursera, certificate: [KH2HS2XGHY27](https://www.coursera.org/account/accomplishments/specialization/KH2HS2XGHY27)
-
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
-\newpage
-
-# skills
-
-![](cv_files/figure-latex/skills-1.png)<!-- --> 
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
