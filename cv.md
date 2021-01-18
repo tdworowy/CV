@@ -42,6 +42,7 @@ Data pipeline - goal of project was to prepare data pipeline from salesforce, to
 #### Responsibilities:
 
 * Testing (SQL)
+* Test automation (Python)
 
 **Tools used**: Python, SQL, AWS glue, AWS Athena.  
 **Project Management Methodology**: Scrum.
