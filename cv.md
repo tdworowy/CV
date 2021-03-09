@@ -37,7 +37,7 @@ Position: Test Development Engineer
 Time span: December 2020 - Current
 
 ### Project: 
-Data pipeline - goal of project was to prepare data pipeline from salesforce, to AWS S3 bucket, transform data and make it ready to use by ThoughtSpot.
+Data pipeline - goal of project is to prepare data pipeline from salesforce, to AWS S3 bucket which transform data and make it ready to use in ThoughtSpot.
 
 #### Responsibilities:
 
@@ -106,7 +106,7 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 Time span: September 2017 – April 2019  
 Position: Software Test Engineer
 
-#### Projects:
+#### Project:
 
 Emulate - Industrial controller emulator, goal of project was to re-use part of industrial controller firmware to prepare emulator for windows 10. Product should be able to emulate multiple controllers as well as communication between them.  
 
