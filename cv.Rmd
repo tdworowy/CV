@@ -1,7 +1,6 @@
 ---
 output:
-  pdf_document: 
-    keep_md: true
+  pdf_document: default
   html_document: default
   md_document:
     variant: markdown_github
@@ -24,10 +23,22 @@ Phone
 Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Python enthusiast but capable to use and open to learn different languages to. Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics. \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-## Company: FLYR Labs   
-
+## Company: FLYR Labs
 Time span: June 2021 - Current  
 Position: Software Engineer in Test 
+
+### Project: 
+Cirrus Revenue Operating System - revenue management and forecasting tool for airlines.
+
+#### Responsibilitie
+
+* Testing (WEB UI)
+* WEB UI Test automation (Cypress)
+* Data validation (Python)
+* Conducting SEITs job interviews
+
+**Tools used**: Python, pytest, Cypress, Locust, sql, google bigquery, docker, kubernetes, Postman.  
+**Project Management Methodology**: Scrum.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -187,7 +198,7 @@ for (lib in libraries) {
 ```{r Programing, echo=FALSE, fig.height=4}
 c <- grDevices::col2rgb(c("blue", "black"))
 
-labs <- c("Python","Java","JavaScript/TypeScript",'R')
+labs <- c("Python","Rust","JavaScript/TypeScript",'R')
 scores <- list(
   "Programing languages" = c(9, 4, 7, 5)
  
@@ -205,9 +216,9 @@ webshot("plt1.html")
 ```{r skills, echo=FALSE, fig.height=4}
 c <- grDevices::col2rgb(c("green", "black"))
 
-labs <- c("Data science", "DevOps","Exploratory testing", "Test automation", "Agile")
+labs <- c("Data science", "DevOps","Exploratory testing", "Test automation")
 scores <- list(
-  "Sklis" = c(4, 6, 9, 9, 7)
+  "Sklis" = c(4, 6, 9, 9)
   
 )
 plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
@@ -232,5 +243,3 @@ webshot("plt2.html")
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-
-\scriptsize Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).\par
