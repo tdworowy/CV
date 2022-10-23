@@ -189,7 +189,7 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 libraries <- c("radarchart","webshot","htmlwidgets")
 for (lib in libraries) {
   if (!require(lib, character.only = TRUE)){
-    install.packages(lib)
+    install.packages(lib, repos = "http://cran.us.r-project.org")
   }
   library(lib, character.only=TRUE)
 }
