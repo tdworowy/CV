@@ -15,12 +15,14 @@ Email
 Phone   
 [LinkedIn](https://linkedin.com/in/tomasz-dworowy-aab283bb)  
 [Hackerrank](https://www.hackerrank.com/dworowytomasz)  
+[leetcode](https://leetcode.com/dworowytomasz/)  
 [Github](https://github.com/tdworowy)  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of context driven testing school, specialize in test automation (functional and performance). Python enthusiast but capable to use and open to learn different languages to. Professionally interested in DevOps, Agile, data science and machine learning, personally in history, philosophy and economics. \par 
+Software tester, adherent of context driven testing school, specialize in test automation (functional and performance) mostly using Python (scripting, data validation, api testing, web application testing with selenium) and Cypress. Professionally interested in DevOps, hacking and programming, personally in history, philosophy and economics. 
+\par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: FLYR Labs
@@ -216,7 +218,7 @@ webshot("plt1.html")
 ```{r skills, echo=FALSE, fig.height=4}
 c <- grDevices::col2rgb(c("green", "black"))
 
-labs <- c("Data science", "DevOps","Exploratory testing", "Test automation")
+labs <- c("Hacking", "DevOps","Exploratory testing", "Test automation")
 scores <- list(
   "Sklis" = c(4, 6, 9, 9)
   
