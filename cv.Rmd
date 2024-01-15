@@ -21,7 +21,7 @@ Phone
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of context driven testing school. I have written automation using Cypress, Playwright and Selenium, I can program in Python, TypeScript and JaveScript, and trying to learn Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
+Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I program in Python, TypeScript and JaveScript, and I'm learning Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -35,7 +35,7 @@ Cirrus Revenue Operating System - revenue management and forecasting tool for ai
 #### Responsibilitie
 
 * Testing (WEB UI)
-* WEB UI Test automation (Cypress)
+* E2E Test automation (Cypress)
 * Data validation (Python)
 * Conducting SEITs job interviews
 
@@ -71,7 +71,7 @@ Time span: May 2020 - September 2020
 
 #### Project:
 
-Credit cards backoffice application.
+Credit cards back-office application.
 
 #### Responsibilities:
 
