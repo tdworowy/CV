@@ -21,7 +21,7 @@ Phone
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of context driven testing school, specialize in test automation (functional and performance) mostly using Python (scripting, data validation, api testing, web application testing with selenium) and Cypress. Professionally interested in DevOps, hacking and programming, personally in history, philosophy and economics. //TODO rewrite
+Software tester, adherent of context driven testing school. I have written automation using Cypress, Playwright and Selenium, I can program in Python, TypeScript and JaveScript, and trying to learn Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -30,7 +30,7 @@ Time span: June 2021 - January 2024
 Position: Software Engineer in Test 
 
 ### Project: 
-Cirrus Revenue Operating System - revenue management and forecasting tool for airlines.
+Cirrus Revenue Operating System - revenue management and forecasting tool for airlines. 
 
 #### Responsibilitie
 
@@ -39,7 +39,7 @@ Cirrus Revenue Operating System - revenue management and forecasting tool for ai
 * Data validation (Python)
 * Conducting SEITs job interviews
 
-**Tools used**: Python, pytest, Cypress, Locust, sql, google bigquery, docker, kubernetes, Postman.  
+**Tools used**: Python, pytest, Cypress, Playwright, sql, google bigquery, docker, kubernetes, Postman.  
 **Project Management Methodology**: Scrum.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
