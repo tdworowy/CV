@@ -21,12 +21,12 @@ Phone
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of context driven testing school, specialize in test automation (functional and performance) mostly using Python (scripting, data validation, api testing, web application testing with selenium) and Cypress. Professionally interested in DevOps, hacking and programming, personally in history, philosophy and economics. 
+Software tester, adherent of context driven testing school, specialize in test automation (functional and performance) mostly using Python (scripting, data validation, api testing, web application testing with selenium) and Cypress. Professionally interested in DevOps, hacking and programming, personally in history, philosophy and economics. //TODO rewrite
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: FLYR Labs
-Time span: June 2021 - Current  
+Time span: June 2021 - January 2024  
 Position: Software Engineer in Test 
 
 ### Project: 
@@ -181,53 +181,6 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * level of education: bachelor
 * Specialization: Databases and data warehouses
 * Bachelor thesis topic: *Suggestions for the use of artificial neural networks in the classification of bonds*
-
-\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
-
-
-# Programing languages
-
-``` {r load_libraries, echo=FALSE, warning=FALSE, message=FALSE}
-libraries <- c("radarchart","webshot","htmlwidgets")
-for (lib in libraries) {
-  if (!require(lib, character.only = TRUE)){
-    install.packages(lib, repos = "http://cran.us.r-project.org")
-  }
-  library(lib, character.only=TRUE)
-}
-```
-
-```{r Programing, echo=FALSE, fig.height=4}
-c <- grDevices::col2rgb(c("blue", "black"))
-
-labs <- c("Python","Rust","JavaScript/TypeScript",'R')
-scores <- list(
-  "Programing languages" = c(9, 4, 7, 5)
- 
-)
-plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
-
-saveWidget(plt, "plt1.html")
-webshot("plt1.html")
-
-```
-\newpage
-
-# skills
-
-```{r skills, echo=FALSE, fig.height=4}
-c <- grDevices::col2rgb(c("green", "black"))
-
-labs <- c("Hacking", "DevOps","Exploratory testing", "Test automation")
-scores <- list(
-  "Sklis" = c(4, 6, 9, 9)
-  
-)
-plt <- chartJSRadar(scores = scores, labs = labs, maxScale = 10, colMatrix=c)
-
-saveWidget(plt, "plt2.html")
-webshot("plt2.html")
-```
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
