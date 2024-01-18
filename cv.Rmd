@@ -11,8 +11,8 @@ fontsize: 11pt
 # Tomasz Dworowy
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-Email
-Phone   
+Email: 
+Phone: 
 [LinkedIn](https://linkedin.com/in/tomasz-dworowy-aab283bb)  
 [Hackerrank](https://www.hackerrank.com/dworowytomasz)  
 [leetcode](https://leetcode.com/dworowytomasz/)  
@@ -21,7 +21,7 @@ Phone
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I program in Python, TypeScript and JaveScript, and I'm learning Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
+Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programing in Python, TypeScript and JaveScript, and I'm currently learning Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
