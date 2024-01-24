@@ -21,7 +21,7 @@ Phone:
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programing in Python, TypeScript and JaveScript, and I'm currently learning Rust and Go. Professionally I'm interested in DevOps, hacking and programming, personally in philosophy and history. 
+Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust and Go. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -30,7 +30,7 @@ Time span: June 2021 - January 2024
 Position: Software Engineer in Test 
 
 ### Project: 
-Cirrus Revenue Operating System - revenue management and forecasting tool for airlines. 
+Cirrus Revenue Operating System - revenue management and forecasting system for airlines. 
 
 #### Responsibilitie
 
@@ -55,7 +55,7 @@ Position: Test Development Engineer
 Time span: December 2020 - June 2021 
 
 ### Project: 
-Data pipeline - goal of project is to prepare data pipeline from salesforce, to AWS S3 bucket which transform data and make it ready to use in ThoughtSpot.
+Data pipeline - goal of project was to prepare data pipeline from salesforce to AWS S3 bucket and transformation of data to made it ready to use in ThoughtSpot.
 
 #### Responsibilities:
 
@@ -149,7 +149,7 @@ Position: Software Tester
 
 #### Projects: 
 ATMS Watch (12.2013 – 12.2014) - Web time tracking application use to track working time, including time shift, vacations, sick leave etc.  
-CREAM (12.2014 – 09.2017) - Customer relationship management web application use to create and coordinate marketing campaigns and to manage customer and products base. 
+CREAM (12.2014 – 09.2017) - Customer relationship management web application use to create and coordinate marketing campaigns and to manage customers and products base. 
 
 #### Responsibilities:  
 
