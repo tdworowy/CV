@@ -11,8 +11,7 @@ fontsize: 11pt
 # Tomasz Dworowy
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-Email: 
-Phone: 
+Email: dworowytomasz@gmail.com  
 [LinkedIn](https://linkedin.com/in/tomasz-dworowy-aab283bb)  
 [Hackerrank](https://www.hackerrank.com/dworowytomasz)  
 [leetcode](https://leetcode.com/dworowytomasz/)  
@@ -23,6 +22,16 @@ Phone:
 \large
 Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust and Go. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
 \par 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
+
+## Personal projects:
+https://github.com/tdworowy/DeepLearningStaff <- attempt (more of less failed) to create web frontend to keras. 
+Written using react, flask. Tested with pytest (unit and api test) and behave with selenium (front end).  
+https://github.com/tdworowy/cellular_automata <- examples of 1D and 2D cellular automata written in python,  javascript and rust.  
+https://github.com/tdworowy/PerformancePlayground <- a few examples of using different tools for performance testing.   
+https://github.com/tdworowy/chess <- checkers implemented in vue.js, tested with playwright, i'm planning to write backend in rust and add AI and latter turn it in full-fledged chess. 
+
+
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: FLYR Labs
@@ -39,7 +48,7 @@ Cirrus Revenue Operating System - revenue management and forecasting system for 
 * Data validation (Python)
 * Conducting SEITs job interviews
 
-**Tools used**: Python, pytest, Cypress, Playwright, sql, google bigquery, docker, kubernetes, Postman.  
+**Tools used**: Python, pytest, Cypress, Playwright, sql, google bigquery, docker 
 **Project Management Methodology**: Scrum.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
@@ -96,7 +105,7 @@ Data ingestion – goal of project was to prepare data pipeline from mssql, thro
 * Testing
 * Development support  
   
-**Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker, Terraform.  
+**Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker  
 **Project Management Methodology**: Scrum.
 
 ### Client: ABB 
