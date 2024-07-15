@@ -46,7 +46,7 @@ Time span: April 2024 - Current
 #### Project:
 Services responsible for logs gathering and firmware updates for Tivo OS - smart TV operating system. 
 
-#### Responsibilities
+#### Responsibilities:
 
 * Testing
 * Test automation (pytest)
@@ -63,7 +63,7 @@ Position: Software Engineer in Test
 ### Project:
 Cirrus Revenue Operating System - revenue management and forecasting system for airlines. 
 
-#### Responsibilities
+#### Responsibilities:
 
 * Testing (WEB UI)
 * E2E Test automation (Cypress)
@@ -199,8 +199,6 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 
 # Courses
 
-* ISTQB Foundation Level, certificate: 57418
-* Machine Learning, Coursera, certificate: [R4LDP4UJKNW5](https://www.coursera.org/account/accomplishments/records/R4LDP4UJKNW5)
 * Ancient Philosophy: Aristotle and His Successors, Coursera, certificate: [SJH4XTG8ZC89](https://www.coursera.org/account/accomplishments/records/SJH4XTG8ZC89)
 * Kubernetes Essentials, Linux Academy, certificate: [194408](https://linuxacademy.com/profile/u/cert/id/194408)
 * Implementing a Full CI/CD Pipeline, Linux Academy, certificate: [197992](https://linuxacademy.com/profile/u/cert/id/197992)
