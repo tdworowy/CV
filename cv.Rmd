@@ -5,8 +5,8 @@ output:
   md_document:
     variant: markdown_github
 urlcolor: blue
-geometry: margin=1.5cm
-fontsize: 11pt
+geometry: margin=0.3cm
+fontsize: 8pt
 ---
 # Tomasz Dworowy
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
@@ -21,7 +21,7 @@ Phone:
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
-Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust and Go. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
+Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -32,7 +32,27 @@ Written using react, flask. Tested with pytest (unit and api test) and behave wi
 https://github.com/tdworowy/cellular_automata <- examples of 1D and 2D cellular automata written in python,  javascript and rust.  
 https://github.com/tdworowy/PerformancePlayground <- a few examples of using different tools for performance testing.   
 https://github.com/tdworowy/chess <- checkers implemented in vue.js, tested with playwright, i'm planning to write backend in rust and add AI and latter turn it in full-fledged chess.  
-https://github.com/tdworowy/genetic_algorithms <- a simple genetic algorithm implementation inspired by example from book Complexity: A Guided Tour by Melanie Mitchell. Written in python and rust   
+https://github.com/tdworowy/genetic_algorithms <- a simple genetic algorithm implementation inspired by example from book Complexity: A Guided Tour by Melanie Mitchell. Written in python and rust.   
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
+
+## Company: B2BNetwork 
+Time span: April 2024 - Current  
+Position: Software Tester  
+
+### Client: Xperi 
+Time span: April 2024 - Current 
+
+#### Project:
+Services responsible for logs gathering and firmware updates for Tivo OS - smart TV operating system. 
+
+#### Responsibilities
+
+* Testing
+* Test automation (pytest)
+* Maintaining jenkins pipelines
+
+**Tools used**:  Python, pytest, javascript, groovy  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
@@ -40,10 +60,10 @@ https://github.com/tdworowy/genetic_algorithms <- a simple genetic algorithm imp
 Time span: June 2021 - January 2024  
 Position: Software Engineer in Test 
 
-### Project: 
+### Project:
 Cirrus Revenue Operating System - revenue management and forecasting system for airlines. 
 
-#### Responsibilitie
+#### Responsibilities
 
 * Testing (WEB UI)
 * E2E Test automation (Cypress)
@@ -51,21 +71,18 @@ Cirrus Revenue Operating System - revenue management and forecasting system for 
 * Conducting SEITs job interviews
 
 **Tools used**: Python, pytest, Cypress, Playwright, sql, google bigquery, docker  
-**Project Management Methodology**: Scrum.
+
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: Sii  
-
 Time span: June 2019 - June 2021  
 Position: Test Development Engineer
 
-
 ### Client: Roche
-
 Time span: December 2020 - June 2021 
 
-### Project: 
+### Project:
 Data pipeline - goal of project was to prepare data pipeline from salesforce to AWS S3 bucket and transformation of data to made it ready to use in ThoughtSpot.
 
 #### Responsibilities:
@@ -74,14 +91,11 @@ Data pipeline - goal of project was to prepare data pipeline from salesforce to 
 * Test automation (Python)
 
 **Tools used**: Python, SQL, AWS glue, AWS Athena.  
-**Project Management Methodology**: Scrum.
 
 ### Client: ING Tech Poland
-
 Time span: May 2020 - September 2020
 
 #### Project:
-
 Credit cards back-office application.
 
 #### Responsibilities:
@@ -90,14 +104,11 @@ Credit cards back-office application.
 * Testing (GUI, API and data base)
 
 **Tools used**: Java, Oracle SQL Developer, Postman.  
-**Project Management Methodology**: Scrum.
 
 ### Client: Grand parade (William Hill) 
-
 Time span: October 2019 to March 2020
 
 #### Project:
-
 Data ingestion – goal of project was to prepare data pipeline from mssql, through S3 bucket, to Snowflake database. Pipeline was prepare using Airflow and NiFi.
 
 #### Responsibilities:  
@@ -108,14 +119,11 @@ Data ingestion – goal of project was to prepare data pipeline from mssql, thro
 * Development support  
   
 **Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker  
-**Project Management Methodology**: Scrum.
 
 ### Client: ABB 
-
 Time span: July 2019 to September 2019
 
 #### Project:
-
 ServIS 2.0 Proof of technology - goal of project was to test performance of mssql data base (and simple REST api) located in Azure cloud.  
 
 #### Responsibilities:  
@@ -126,17 +134,14 @@ ServIS 2.0 Proof of technology - goal of project was to test performance of mssq
 * Preparation of reports using Power BI and Excel  
 
 **Tools used**: Jmeter, Power BI, Postman, Azure, SQL  
-**Project Management Methodology**: Scrum.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: Rockwell Automation  
-
 Time span: September 2017 – April 2019  
 Position: Software Test Engineer
 
 #### Project:
-
 Emulate - Industrial controller emulator, goal of project was to re-use part of industrial controller firmware to prepare emulator for windows 10. Product should be able to emulate multiple controllers as well as communication between them.  
 
 #### Responsibilities:
@@ -149,16 +154,14 @@ Emulate - Industrial controller emulator, goal of project was to re-use part of 
 * Jenkins pipeline configuration and maintenance  
 
 **Tools used**: Python, C#, C++, Git, Docker, Jenkins, IBM RQM, google protobuf, NATS message broker.  
-**Project Management Methodology**: Scrum and SAFe.
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Company: Alan Systems  
-
 Time span: December 2013 - September 2017  
 Position: Software Tester
 
-#### Projects: 
+#### Projects:
 ATMS Watch (12.2013 – 12.2014) - Web time tracking application use to track working time, including time shift, vacations, sick leave etc.  
 CREAM (12.2014 – 09.2017) - Customer relationship management web application use to create and coordinate marketing campaigns and to manage customers and products base. 
 
@@ -170,7 +173,6 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 * Performance and load tests using Jmeter and Java framework
 
 **Tools used**: Selenium webdriver, Jmeter, Docker, Jenkins, Git, Jira, TestLink, SQL.  
-**Project Management Methodology**: Scrum.  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
