@@ -1,8 +1,4 @@
-.Rhistory
 .Rproj.user
+.Rhistory
 .RData
-*.log
-plt1.html
-plt2.html
-*.png
-cv_files
+.Ruserdata
