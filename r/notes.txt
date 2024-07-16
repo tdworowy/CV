@@ -1,3 +1,4 @@
 https://bookdown.org/yihui/rmarkdown/pdf-document.html#includes
 
 TODO: move to laTeX or alternative 
+TODO: improve visuals, add skill, and tools bars

@@ -5,7 +5,7 @@ output:
   md_document:
     variant: markdown_github
 urlcolor: blue
-geometry: top=0.5cm, bottom=0.5cm, left=0.5cm, right=0.5cm
+geometry: top=1.5cm, bottom=1.5cm, left=2cm, right=2cm
 fontsize: 8pt
 ---
 # Tomasz Dworowy
@@ -21,11 +21,12 @@ Phone:
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 \large
+## About me
 Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
 \par 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-## Personal projects:
+## Personal projects
 
 https://github.com/tdworowy/DeepLearningStaff <- attempt (more of less failed) to create web frontend to keras. 
 Written using react, flask. Tested with pytest (unit and api test) and behave with selenium (front end).  
@@ -36,7 +37,7 @@ https://github.com/tdworowy/genetic_algorithms <- a simple genetic algorithm imp
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-## Experience:
+## Experience
 
 **Company**: B2BNetwork 
 Time span: April 2024 - Current  
@@ -84,8 +85,8 @@ Time span: December 2020 - June 2021
 **Tools used**: Python, SQL, AWS glue, AWS Athena.  
 
 **Client**: ING Tech Poland
-Time span: May 2020 - September 2020
-**Project**: Credit cards back-office application.
+Time span: May 2020 - September 2020  
+**Project**: Credit cards back-office application. 
 **Responsibilities**:
 
 * Test automation (Java)
@@ -106,7 +107,7 @@ Time span: October 2019 to March 2020
 **Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker  
 
 **Client**: ABB 
-Time span: July 2019 to September 2019
+Time span: July 2019 to September 2019  
 **Project**: ServIS 2.0 Proof of technology - goal of project was to test performance of mssql data base (and simple REST api) located in Azure cloud.  
 **Responsibilities**:  
 
@@ -176,9 +177,6 @@ CREAM (12.2014 – 09.2017) - Customer relationship management web application u
 # Courses
 
 * Ancient Philosophy: Aristotle and His Successors, Coursera, certificate: [SJH4XTG8ZC89](https://www.coursera.org/account/accomplishments/records/SJH4XTG8ZC89)
-* Kubernetes Essentials, Linux Academy, certificate: [194408](https://linuxacademy.com/profile/u/cert/id/194408)
-* Implementing a Full CI/CD Pipeline, Linux Academy, certificate: [197992](https://linuxacademy.com/profile/u/cert/id/197992)
-* Learning Full-Stack JavaScript Development: MongoDB, Node, and React, Linkedin
 * Introduction to Discrete Mathematics for Computer Science (specialization), Coursera, certificate: [SB2ADSZH9GXJ](https://www.coursera.org/account/accomplishments/specialization/SB2ADSZH9GXJ)
 * Introduction to Complexity, Santa Fe Institute(complexityexplorer.org), certificate:[226951170](https://www.complexityexplorer.org/courses/104-introduction-to-complexity/certificates/226951170)
 * Data Science(specialization), Coursera, certificate: [TDQ6CJ9NT7ZX](https://www.coursera.org/account/accomplishments/specialization/TDQ6CJ9NT7ZX)
