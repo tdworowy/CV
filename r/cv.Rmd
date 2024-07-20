@@ -27,14 +27,11 @@ Software tester, adherent of the context driven testing school. I have written a
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Personal projects
-
-https://github.com/tdworowy/DeepLearningStaff <- attempt (more of less failed) to create web frontend to keras. 
-Written using react, flask. Tested with pytest (unit and api test) and behave with selenium (front end).  
-https://github.com/tdworowy/cellular_automata <- examples of 1D and 2D cellular automata written in python,  javascript and rust.  
-https://github.com/tdworowy/PerformancePlayground <- a few examples of using different tools for performance testing.   
-https://github.com/tdworowy/chess <- checkers implemented in vue.js, tested with playwright, i'm planning to write backend in rust and add AI and latter turn it in full-fledged chess.  
-https://github.com/tdworowy/genetic_algorithms <- a simple genetic algorithm implementation inspired by example from book Complexity: A Guided Tour by Melanie Mitchell. Written in python and rust.   
-
+https://github.com/tdworowy/cellular_automata - examples of 1D and 2D cellular automata written in python,  javascript and rust.  
+https://github.com/tdworowy/PerformancePlayground - a few examples of usage of different tools for performance testing.   
+https://github.com/tdworowy/chess - checkers with frontend implemented in vue.js, tested using playwright, backend in rust. I'm planning to add AI and latter turn it in full-fledged chess.  
+https://github.com/tdworowy/genetic_algorithms - a simple genetic algorithm implementation inspired by example from book Complexity: A Guided Tour by Melanie Mitchell. Written in python and rust.   
+https://github.com/tdworowy/DeepLearningStaff - attempt to create web frontend to keras. Written using react, flask. Tested using pytest (unit and api test) and behave with selenium (front end). 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
 ## Experience
