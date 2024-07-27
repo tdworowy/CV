@@ -5,8 +5,8 @@ output:
   md_document:
     variant: markdown_github
 urlcolor: blue
-geometry: top=1.5cm, bottom=1.5cm, left=2cm, right=2cm
-fontsize: 8pt
+geometry: top=1.0cm, bottom=1.0cm, left=1cm, right=1cm
+fontsize: 5pt
 ---
 # Tomasz Dworowy
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
@@ -36,11 +36,9 @@ https://github.com/tdworowy/DeepLearningStaff - attempt to create web frontend t
 
 ## Experience
 
-**Company**: B2BNetwork 
-Time span: April 2024 - Current  
-Position: Software Tester  
-**Client**: Xperi  
-Time span: April 2024 - Current  
+**Company**: B2BNetwork: April 2024 - Current  
+**Position**: Software Tester  
+**Client**: Xperi: April 2024 - Current  
 **Project**: Services responsible for logs gathering and firmware updates for Tivo OS - smart TV operating system.  
 **Responsibilities**:
 
@@ -52,9 +50,8 @@ Time span: April 2024 - Current
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-**Company**: FLYR Labs  
-Time span: June 2021 - January 2024  
-Position: Software Engineer in Test  
+**Company**: FLYR Labs: June 2021 - January 2024  
+**Position**: Software Engineer in Test  
 **Project**: Cirrus Revenue Operating System - revenue management and forecasting system for airlines.  
 **Responsibilities**:
 
@@ -68,11 +65,9 @@ Position: Software Engineer in Test
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-**Company**: Sii  
-Time span: June 2019 - June 2021  
-Position: Test Development Engineer  
-**Client**: Roche  
-Time span: December 2020 - June 2021  
+**Company**: Sii: June 2019 - June 2021  
+**Position**: Test Development Engineer  
+**Client**: Roche: December 2020 - June 2021  
 **Project**: Data pipeline - goal of project was to prepare data pipeline from salesforce to AWS S3 bucket and transformation of data to made it ready to use in ThoughtSpot.  
 **Responsibilities**:
 
@@ -81,8 +76,7 @@ Time span: December 2020 - June 2021
 
 **Tools used**: Python, SQL, AWS glue, AWS Athena.  
 
-**Client**: ING Tech Poland
-Time span: May 2020 - September 2020  
+**Client**: ING Tech Poland: May 2020 - September 2020  
 **Project**: Credit cards back-office application. 
 **Responsibilities**:
 
@@ -91,8 +85,7 @@ Time span: May 2020 - September 2020
 
 **Tools used**: Java, Oracle SQL Developer, Postman.  
 
-**Client**: Grand parade (William Hill) 
-Time span: October 2019 to March 2020  
+**Client**: Grand parade (William Hill): October 2019 to March 2020  
 **Project**: Data ingestion – goal of project was to prepare data pipeline from mssql, through S3 bucket, to Snowflake database. Pipeline was prepare using Airflow and NiFi.  
 **Responsibilities**:  
 
@@ -103,8 +96,7 @@ Time span: October 2019 to March 2020
   
 **Tools used**: Python, Pytest, Snowflake, Airflow, Nifi, SQL, Jira, Git, Docker  
 
-**Client**: ABB 
-Time span: July 2019 to September 2019  
+**Client**: ABB: July 2019 to September 2019  
 **Project**: ServIS 2.0 Proof of technology - goal of project was to test performance of mssql data base (and simple REST api) located in Azure cloud.  
 **Responsibilities**:  
 
@@ -117,9 +109,8 @@ Time span: July 2019 to September 2019
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-**Company**: Rockwell Automation  
-Time span: September 2017 – April 2019  
-Position: Software Test Engineer  
+**Company**: Rockwell Automation: September 2017 – April 2019  
+**Position**: Software Test Engineer  
 **Project**: Emulate - Industrial controller emulator, goal of project was to re-use part of industrial controller firmware to prepare emulator for windows 10. Product should be able to emulate multiple controllers as well as communication between them.  
 **Responsibilities**:
 
@@ -134,9 +125,8 @@ Position: Software Test Engineer
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
-**Company**: Alan Systems  
-Time span: December 2013 - September 2017  
-Position: Software Tester  
+**Company**: Alan Systems:December 2013 - September 2017  
+**Position**: Software Tester  
 **Projects**: ATMS Watch (12.2013 – 12.2014) - Web time tracking application use to track working time, including time shift, vacations, sick leave etc.  
 CREAM (12.2014 – 09.2017) - Customer relationship management web application use to create and coordinate marketing campaigns and to manage customers and products base.  
 **Responsibilities**:  
