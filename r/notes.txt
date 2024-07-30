@@ -2,3 +2,12 @@ https://bookdown.org/yihui/rmarkdown/pdf-document.html#includes
 
 TODO: move to laTeX or alternative 
 TODO: improve visuals, add skill, and tools bars
+
+
+
+
+\large
+## About me
+Software tester, adherent of the context driven testing school. I have written automation using Cypress, Playwright and Selenium, I'm programming in Python, TypeScript and JaveScript and I'm currently learning Rust. Professionally I'm interested in DevOps, penetration testing and programming, personally in philosophy and history. 
+\par 
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
