@@ -31,17 +31,17 @@ https://github.com/tdworowy/DeepLearningStaff - attempt to create web frontend t
 
 ## Experience
 
-**Company**: B2BNetwork: April 2024 - Current  
-**Position**: Software Tester  
-**Client**: Xperi: April 2024 - Current  
-**Project**: Services responsible for logs gathering and firmware updates for Tivo OS - smart TV operating system.  
+**Company**: Xperi Inc.: April 2024 - Current  
+**Position**: Senior Software Development Engineer in Test  
+**Project**:  System QA team responsible for creating and maintaining tools and libraries used in test automation of TiVo OS - smart TV operating system.    
 **Responsibilities**:
 
 * Testing
 * Test automation (pytest)
 * Maintaining jenkins pipelines
+* Creation and maintenance test automation tools and libraries
 
-**Tools used**:  Python, pytest, javascript, groovy  
+**Tools used**:  Python, pytest, groovy, ansible, flask, docker, raspberry pi, jenkins  
 
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{1pt}}
 
